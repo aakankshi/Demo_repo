@@ -15,3 +15,4 @@ If you have modified branches or tags in the fork, Bitbucket Server will offer s
 Note that syncing is about pulling recent upstream changes into your fork, whereas pull requests are about pushing your changes back to the upstream repository.
 #closing the issue
 editing the text file
+commiting some changes
