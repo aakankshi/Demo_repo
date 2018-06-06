@@ -27,4 +27,6 @@ EXAMPLE
 Imagine that you built your work on your master branch on top of the v1.0 release, and want it to be integrated to the project. First you push that change to your public repository for others to see:
 
 git push https://git.ko.xz/project master
+
 changes made on 6th june
+
