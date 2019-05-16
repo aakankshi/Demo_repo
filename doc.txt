@@ -14,8 +14,8 @@ Fork syncing helps you to keep your fork in Bitbucket Server up-to-date with cha
 If you have modified branches or tags in the fork, Bitbucket Server will offer syncing strategies. Bitbucket Server will never update your branch or tag in your fork if this means that your changes would be lost.
 Note that syncing is about pulling recent upstream changes into your fork, whereas pull requests are about pushing your changes back to the upstream repository.
 
+commiting some change on 16th may
 
-commiting some change on 7th june
 
 
 
