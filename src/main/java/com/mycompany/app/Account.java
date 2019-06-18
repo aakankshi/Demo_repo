@@ -5,7 +5,7 @@ import java.io.Serializable;
 @SuppressWarnings("serial")
 public class Account implements Serializable{
 
-	private Date date;
+	private Date date1;
 	private String holderName;
 	private int accountID;
 	
